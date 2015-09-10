@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1669A3EB-50D6-4DF3-85F4-586AF0E0F4D5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FeedBackDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC2AAD2E78804A3C7CB735FEFAB5F3BCA555280F</key>
+		<string>https://github.com/cnbin/HXXYProjectItem.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>华讯星园项目小步骤/星级评分/客户端/FeedBackDemo/FeedBackDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC2AAD2E78804A3C7CB735FEFAB5F3BCA555280F</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cnbin/HXXYProjectItem.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC2AAD2E78804A3C7CB735FEFAB5F3BCA555280F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC2AAD2E78804A3C7CB735FEFAB5F3BCA555280F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E5%B0%8F%E6%AD%A5%E9%AA%A4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
