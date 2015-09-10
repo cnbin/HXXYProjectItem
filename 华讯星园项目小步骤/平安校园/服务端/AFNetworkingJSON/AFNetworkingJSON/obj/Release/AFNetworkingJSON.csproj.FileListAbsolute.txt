@@ -1,0 +1,5 @@
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\bin\AFNetworkingJSON.dll.config
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\bin\AFNetworkingJSON.dll
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\bin\AFNetworkingJSON.pdb
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\obj\Release\AFNetworkingJSON.dll
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\obj\Release\AFNetworkingJSON.pdb

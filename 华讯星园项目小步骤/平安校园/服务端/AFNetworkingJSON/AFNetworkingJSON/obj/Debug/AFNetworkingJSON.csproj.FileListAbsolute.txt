@@ -1,0 +1,6 @@
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\bin\AFNetworkingJSON.dll.config
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\bin\AFNetworkingJSON.dll
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\bin\AFNetworkingJSON.pdb
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\obj\Debug\AFNetworkingJSON.csprojResolveAssemblyReference.cache
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\obj\Debug\AFNetworkingJSON.dll
+c:\Projects\AFNetworkingJSON\AFNetworkingJSON\obj\Debug\AFNetworkingJSON.pdb
